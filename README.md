@@ -1,1 +1,1 @@
-This Python project utilizes StatsBomb data from UEFA Euro 2024 to generate insightful visualizations of formation heatmaps, passing networks, expected goals plots, and expected threat (xT) plots.
+This Python project leverages the StatsBomb database to analyze UEFA Euro 2024 match data. It calculates expected goals (xG) using shot data and evaluates expected threat (xT) from passing data. The tool generates dynamic visualizations, including heatmaps and passing networks, enabling users to explore match trends and tactical insights with detailed statistics.
